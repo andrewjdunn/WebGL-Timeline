@@ -1,0 +1,4 @@
+WebGL-Timeline
+==============
+
+A WebGl application that uses some basic techniques to display a timeline that can be populated with photos, video clips, interaction allows the user to select a media thumbnail and display / play the media.
